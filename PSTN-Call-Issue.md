@@ -26,7 +26,7 @@ I can then use a client like postman using this example: [Create peer-to-peer Vo
 # What I try to make example 9 (and/or) 10 work:
 ## Create
 
-![](./images/2021-02-13-13-13-20.png =300x)
+<img src="./images/2021-02-13-13-13-20.png" width=200 >
 
 ## Post command:
 <details>
