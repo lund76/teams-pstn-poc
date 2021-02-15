@@ -76,8 +76,11 @@ https://login.microsoftonline.com/{{TenantID}}/oauth2/v2.0/token
       ```powershell
     Set-CsOnlineVoiceApplicationInstance -Identity teams-pstn-app2@acme.onmicrosoft.com  -TelephoneNumber +47xxxxxx61
     Sync-CsOnlineApplicationInstance -ObjectId 5c1e2e0f-95e9-4cb6-a8d6-938fdb0f32e4
-
     ```
+    This is just the latest example:
+
+    <img src="./images/2021-02-15-18-38-00.png" width=60% >
+    
 
 ## Running POST Request from Postman:
 
