@@ -74,7 +74,7 @@ https://login.microsoftonline.com/{{TenantID}}/oauth2/v2.0/token
 
 4. Also tried with different numbers assigned:
       ```powershell
-    Set-CsOnlineVoiceApplicationInstance -Identity teams-pstn-app2@amestoid.onmicrosoft.com -TelephoneNumber +47xxxxxx61
+    Set-CsOnlineVoiceApplicationInstance -Identity teams-pstn-app2@acme.onmicrosoft.com  -TelephoneNumber +47xxxxxx61
     Sync-CsOnlineApplicationInstance -ObjectId 5c1e2e0f-95e9-4cb6-a8d6-938fdb0f32e4
 
     ```
