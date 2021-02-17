@@ -16,6 +16,11 @@ But the request yields a: **Call source identity invalid.**
 }
 ```
 
+## Links to Issue and Stack overflow
+
+I have created an [issue](https://github.com/microsoftgraph/microsoft-graph-docs/issues/11648) on the [microsoftgraph/microsoft-graph-docs](https://github.com/microsoftgraph/microsoft-graph-docs) git hub repo.
+
+Also posted a question on [stack overflow](https://stackoverflow.com/questions/66194327/trying-to-initiate-a-pstn-call-returns-call-source-identity-invalid).
 # What works
 It's not like nothing works. I have a functioning bot that can call a user and listen to make a 10 second voice recording ([using MS Graph github sample](https://github.com/microsoftgraph/microsoft-graph-comms-samples/tree/master/Samples/V1.0Samples/StatelessSamples/VoiceRecorderAndPlaybackBot#introduction)).
 
