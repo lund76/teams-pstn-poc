@@ -1,4 +1,11 @@
 # PSTN Call issue (http Post request)
+
+## UPDATE (2021-02-18):
+
+**inspired by elements in the v1.0 documentation. Changing parts of the call identity. I'm able to establish a call that unfortunately gets rejected see [follow up document](PSTN-Call-Issue-part2.md) for more information.**
+
+## Original content:
+
 I'm trying to make a bot call a PSTN number. using this example: [Create peer-to-peer PSTN call with application hosted media](https://docs.microsoft.com/en-us/graph/api/application-post-calls?view=graph-rest-beta&tabs=http#example-10-create-peer-to-peer-pstn-call-with-application-hosted-media) from the [Cloud communications part of the MS Graph API](https://docs.microsoft.com/en-us/graph/api/resources/communications-api-overview?view=graph-rest-beta)
 
 But the request yields a: **Call source identity invalid.**
